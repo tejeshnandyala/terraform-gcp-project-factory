@@ -1,0 +1,4 @@
+* @terraform-google-modules/cft-admins
+
+# CFT Fabric
+/modules/fabric-project/ @terraform-google-modules/cft-fabric
